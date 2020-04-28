@@ -1,7 +1,8 @@
 # OVERVIEW
 Hi friends, this app helps you to make connection via your spring boot app and kafka with ELK
 
-On this time only use kafka as producer because listener our is Logstash ;)
+This time only use kafka as producer because our listener  is Logstash ;)
+
 
 # HOW IT WORKS ?
 On this part our teammate help you an installation with ELK.  
